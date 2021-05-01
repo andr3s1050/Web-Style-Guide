@@ -1,0 +1,86 @@
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+p {
+    margin: 20px auto;
+    padding: 10px auto;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+
+/*COLORS*/
+
+.red {
+    background-color: #ff0000;
+    color: white;
+    text-align: center;
+    width: 32%;
+    margin: 20px auto;
+    display: inline-block;
+}
+
+.yellow {
+    background-color: #ffd11a;
+    color: white;
+    text-align: center;
+    width: 32%;
+    margin: 20px auto;
+    display: inline-block;
+}
+
+.orange {
+    background-color: #ff8000;
+    color: white;
+    text-align: center;
+    width: 32%;
+    margin: 20px auto;
+    display: inline-block;
+}
+
+
+/*FONTS*/
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+.karla {
+    font-family: 'Karla', sans-serif;
+}
+
+
+/*TEXT STYLES*/
+
+.h1 {
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Karla', sans-serif;
+}
+
+.p {
+    font-weight: normal;
+    font-size: 14px;
+    font-family: 'Karla', sans-serif;
+}
